@@ -1,0 +1,62 @@
+[
+  {
+    "id": "B001",
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "replacementPrice": 95000
+  },
+  {
+    "id": "B002",
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "replacementPrice": 95000
+  },
+  {
+    "id": "B003",
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "replacementPrice": 95000
+  },
+  {
+    "id": "B004",
+    "title": "Bumi Manusia",
+    "author": "Pramoedya Ananta Toer",
+    "replacementPrice": 120000
+  },
+  {
+    "id": "B005",
+    "title": "Bumi Manusia",
+    "author": "Pramoedya Ananta Toer",
+    "replacementPrice": 120000
+  },
+  {
+    "id": "B006",
+    "title": "Negeri 5 Menara",
+    "author": "Ahmad Fuadi",
+    "replacementPrice": 85000
+  },
+  {
+    "id": "B007",
+    "title": "Sang Pemimpi",
+    "author": "Andrea Hirata",
+    "replacementPrice": 90000
+  },
+  {
+    "id": "B008",
+    "title": "Sang Pemimpi",
+    "author": "Andrea Hirata",
+    "replacementPrice": 90000
+  },
+  {
+    "id": "B009",
+    "title": "Ronggeng Dukuh Paruk",
+    "author": "Ahmad Tohari",
+    "replacementPrice": 75000
+  },
+  {
+    "id": "B010",
+    "title": "Laut Bercerita",
+    "author": "Leila S. Chudori",
+    "replacementPrice": 110000
+  }
+]
